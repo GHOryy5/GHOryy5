@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+### 
 I’m a **Security Researcher** exploring how emerging technologies can be both weaponized and protected.  
 My curiosity lives at the intersection of **offensive research**, **cloud security**, and **AI-driven defense**.  
 
