@@ -40,6 +40,9 @@ I believe security isn’t just a field — it’s a philosophy of curiosity, cr
   <a href="https://github.com/GHOryy5" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="mailto:vuln.ens@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
