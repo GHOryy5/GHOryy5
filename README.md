@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hey, I'm <strong>GHOryy5</strong></h1>
 <h3 align="center">Security Researcher · computer security  · AI/ML & Blockchain Threat Research</h3>
+<h4 align="center">security is fun </h4>
 
 ---
 
