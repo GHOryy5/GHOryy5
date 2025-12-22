@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hey, I'm <strong>GHOryy5</strong></h1>
 <h3 align="center"> · computer security  · AI/ML & Blockchain </h3>
 
 ---
@@ -8,17 +7,41 @@
 ---
 
 ### 
-# yooo
+I mess with systems.
 
-i like understanding systems by pushing them until the abstraction breaks.
+Sometimes that means breaking them.
+Sometimes it means figuring out why they shouldn’t have broken.
+Most of the time it’s just curiosity going too far.
 
-i don’t really stay in one box. sometimes i’m working close to the metal, sometimes higher up the stack, sometimes inside AI systems  .  it depends on where things start getting weird. i’m comfortable moving between Python for speed and exploration, and Rust when i need control, safety, or performance to actually mean something.
+I move between low level reality and high level ideas without asking permission.
+Rust. Python. runtimes. kernels. AI infra.
+They’re tools. Not my personality.
 
-a lot of my time goes into reading code, tracing execution, and figuring out what *really* happens at runtime — syscalls, memory behavior, scheduling, the stuff that gets hand-waved away until it matters. when something feels “too magical,” that’s usually where i start digging.
+I don’t like staying in one box.
+If I understand something, I get bored and go deeper or sideways.
+That’s usually where the interesting stuff is.
 
-i’m drawn to complex, evolving systems: distributed setups, runtimes, models, infra that’s still being figured out. i like breaking things, fixing them, and sitting in the uncomfortable middle before there’s a clean answer.
+Security is part of how I think, not the end goal.
+* So is performance.
+* So is incentives.
+* So is asking “what happens if this is wrong”.
 
-i learn fast, switch contexts easily, and don’t love staying in one lane for too long. if there’s a hard problem, a new domain, or a system that isn’t fully understood yet, that’s usually enough to get my attention.
+I learn by building things and then pushing on them until they tell the truth.
+Abstractions leak.
+Systems lie.
+That’s where the signal is.
+
+I think intelligence is leverage.
+Human or artificial.
+If we’re going to scale it, distribute it, or let it make decisions, it better be understood at the lowest level.
+
+I’m biased toward reality over theory.
+Execution over promises.
+Open systems over closed ones.
+
+If this sounds a little unhinged, that’s fine.
+## It usually means there’s something worth exploring.
+
 
 
 ---
