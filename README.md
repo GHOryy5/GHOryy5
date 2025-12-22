@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey, I'm <strong>GHOryy5</strong></h1>
-<h3 align="center">Security Researcher · computer security  · AI/ML & Blockchain Threat Research</h3>
-<h4 align="center">security is fun </h4>
+<h3 align="center"> · computer security  · AI/ML & Blockchain </h3>
 
 ---
 
@@ -9,39 +8,18 @@
 ---
 
 ### 
-I’m a **Security Researcher** exploring how emerging technologies can be both weaponized and protected.  
-My curiosity lives at the intersection of **offensive research**, **cloud security**, and **AI-driven defense**.  
+# yooo
 
-I believe security isn’t just a field — it’s a philosophy of curiosity, creativity, and controlled chaos.
+i like understanding systems by pushing them until the abstraction breaks.
 
-> “Real security is quiet — it just works while the noise fails.”
+i don’t really stay in one box. sometimes i’m working close to the metal, sometimes higher up the stack, sometimes inside AI systems  .  it depends on where things start getting weird. i’m comfortable moving between Python for speed and exploration, and Rust when i need control, safety, or performance to actually mean something.
 
----
+a lot of my time goes into reading code, tracing execution, and figuring out what *really* happens at runtime — syscalls, memory behavior, scheduling, the stuff that gets hand-waved away until it matters. when something feels “too magical,” that’s usually where i start digging.
 
-### 🧩 Focus Areas
-- ☁️ **Cloud Security**  
-- 🧠 **AI/ML Security** 
-- 🔗 **Blockchain Security** 
+i’m drawn to complex, evolving systems: distributed setups, runtimes, models, infra that’s still being figured out. i like breaking things, fixing them, and sitting in the uncomfortable middle before there’s a clean answer.
 
----
+i learn fast, switch contexts easily, and don’t love staying in one lane for too long. if there’s a hard problem, a new domain, or a system that isn’t fully understood yet, that’s usually enough to get my attention.
 
-
----
-
-### 🔬 Current Research Interests
-- AI-driven threat detection and adaptive response  
-- Cloud forensics and adversarial simulation  
-- Secure AI model deployment pipelines  
-- Blockchain fuzzing and decentralized system hardening  
-
----
-
-<h3 align="center">🌐 Connect With Me</h3>
-<p align="center">
-  <a href="https://github.com/GHOryy5" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
 
 ---
 
